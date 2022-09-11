@@ -8,4 +8,4 @@
 * POSTing news, adding, deleting news, categories, tags...
 * Utilazing SQL datebase
 * Saving user password using SHA-256 encryption
-
+* Client info stored in JWT token
